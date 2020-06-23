@@ -1,0 +1,31 @@
+{
+    "data": {
+        "allMarkdownRemark": {
+            "edges": [
+                {
+                    "node": {
+                        "excerpt": "In life there will be road blocks but we will over come it. Special cloth alert. Don’t ever play yourself. The key to more success is to get a massage once a week, very important, major key, cloth talk. ",
+                        "id": "C:/development/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file >>> MarkdownRemark",
+                        "frontmatter": {
+                            "title": "My Second Gatsby Post",
+                            "date": "July 12, 2017",
+                            "path": "/another-one"
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "excerpt": "Oooooh-weeee, my first blog post!  hello this is harold",
+                        "id": "C:\\development\\codestack-gatsby-blog\\src\\pages\\22–12–2017-getting-started\\index.md absPath of file >>> MarkdownRemark",
+                        "frontmatter": {
+                            "title": "My First Gatsby Post",
+                            "date": "July 12, 2017",
+                            "path": "/hello-world"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "pathContext": {}
+}
