@@ -1,28 +1,18 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "C:/development/codestack-gatsby-blog/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "updatedAt": 1592937416465,
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "C:/development/codestack-gatsby-blog/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6c71ba2742148238dcd535aff5aca44a",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-page-creator": {
-      "resolve": "C:/development/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "resolve": "C:/development/react-blog/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "id": "Plugin component-page-creator",
       "name": "component-page-creator",
       "version": "1.0.0",
@@ -32,7 +22,7 @@
       "nodeAPIs": [
         "createPagesStatefully"
       ],
-      "pluginFilepath": "C:/development/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "pluginFilepath": "C:/development/react-blog/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "packageJson": {
         "name": "component-page-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
@@ -53,13 +43,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7675ef9ec87954ea73ddf7f04ea43cf1",
+        "contentDigest": "bffb88c74cb3a3a6e834f43216c4d11f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "C:/development/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "C:/development/react-blog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
@@ -69,7 +59,7 @@
       "nodeAPIs": [
         "createLayouts"
       ],
-      "pluginFilepath": "C:/development/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "C:/development/react-blog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -90,13 +80,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "788479dba6ee18f04e3b3966024e5e92",
+        "contentDigest": "7403fba38ce2fbf150b247a7430d40cc",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "C:/development/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "C:/development/react-blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -107,7 +97,7 @@
         "sourceNodes",
         "onCreatePage"
       ],
-      "pluginFilepath": "C:/development/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "C:/development/react-blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -124,13 +114,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "69849c489d69d916786bdc836592f185",
+        "contentDigest": "26c7412dc91e61dc1ae6289dd55c6544",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "C:/development/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "C:/development/react-blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -140,7 +130,7 @@
       "nodeAPIs": [
         "createPages"
       ],
-      "pluginFilepath": "C:/development/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "C:/development/react-blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -157,13 +147,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "64a5dea8508db142eeef9159bfda58a6",
+        "contentDigest": "42dfe607554e32f3b961323336983167",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "C:/development/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "C:/development/react-blog/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -173,7 +163,7 @@
       "nodeAPIs": [
         "onCreatePage"
       ],
-      "pluginFilepath": "C:/development/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "C:/development/react-blog/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -190,13 +180,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3125ff4ca8a0c571d75cdccc4915d637",
+        "contentDigest": "95a45151fc6721d3bee2d3aa57f60b29",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "C:/development/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "C:/development/react-blog/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -207,7 +197,7 @@
         "onCreatePage",
         "onCreateLayout"
       ],
-      "pluginFilepath": "C:/development/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "C:/development/react-blog/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -224,13 +214,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "15af58d3a6559b7bf403ef902c468684",
+        "contentDigest": "fa2564e830050d34114bc94ed2ee3d9c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "C:/development/codestack-gatsby-blog/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "C:/development/react-blog/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "1.0.8",
@@ -238,7 +228,7 @@
         "plugins": []
       },
       "nodeAPIs": [],
-      "pluginFilepath": "C:/development/codestack-gatsby-blog/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "C:/development/react-blog/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Stub description for gatsby-plugin-react-helmet",
@@ -278,13 +268,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0796e3b2715e7d412de5097dbca948da",
+        "contentDigest": "49d675b5f413b32bf513afa75cd76ce4",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-catch-links": {
-      "resolve": "C:/development/codestack-gatsby-blog/node_modules/gatsby-plugin-catch-links",
+      "resolve": "C:/development/react-blog/node_modules/gatsby-plugin-catch-links",
       "id": "Plugin gatsby-plugin-catch-links",
       "name": "gatsby-plugin-catch-links",
       "version": "1.0.14",
@@ -292,7 +282,7 @@
         "plugins": []
       },
       "nodeAPIs": [],
-      "pluginFilepath": "C:/development/codestack-gatsby-blog/node_modules/gatsby-plugin-catch-links",
+      "pluginFilepath": "C:/development/react-blog/node_modules/gatsby-plugin-catch-links",
       "packageJson": {
         "name": "gatsby-plugin-catch-links",
         "description": "Intercepts local links from markdown and other non-react pages and does a client-side pushState to avoid the browser having to refresh the page.",
@@ -330,25 +320,25 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a489b32f8e97ecb27a6532b2c0627bcd",
+        "contentDigest": "7bbe52bdac033beba6aedf8d22351c14",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-source-filesystem": {
-      "resolve": "C:/development/codestack-gatsby-blog/node_modules/gatsby-source-filesystem",
+      "resolve": "C:/development/react-blog/node_modules/gatsby-source-filesystem",
       "id": "Plugin gatsby-source-filesystem",
       "name": "gatsby-source-filesystem",
       "version": "1.5.11",
       "pluginOptions": {
         "plugins": [],
-        "path": "C:\\development\\codestack-gatsby-blog/src/pages",
+        "path": "C:\\development\\react-blog/src/pages",
         "name": "pages"
       },
       "nodeAPIs": [
         "sourceNodes"
       ],
-      "pluginFilepath": "C:/development/codestack-gatsby-blog/node_modules/gatsby-source-filesystem",
+      "pluginFilepath": "C:/development/react-blog/node_modules/gatsby-source-filesystem",
       "packageJson": {
         "name": "gatsby-source-filesystem",
         "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
@@ -421,13 +411,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4b577609d567de5334a0cf3f906ed345",
+        "contentDigest": "1633ef39ad81f46ec8e75bde5f70716c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-transformer-remark": {
-      "resolve": "C:/development/codestack-gatsby-blog/node_modules/gatsby-transformer-remark",
+      "resolve": "C:/development/react-blog/node_modules/gatsby-transformer-remark",
       "id": "Plugin gatsby-transformer-remark",
       "name": "gatsby-transformer-remark",
       "version": "1.7.25",
@@ -438,7 +428,7 @@
         "onCreateNode",
         "setFieldsOnGraphQLNodeType"
       ],
-      "pluginFilepath": "C:/development/codestack-gatsby-blog/node_modules/gatsby-transformer-remark",
+      "pluginFilepath": "C:/development/react-blog/node_modules/gatsby-transformer-remark",
       "packageJson": {
         "name": "gatsby-transformer-remark",
         "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
@@ -545,13 +535,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "9991eeb53b826a13945ade2c33a54e37",
+        "contentDigest": "b44483787a8371fffe916bd7d7997cde",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "C:/development/codestack-gatsby-blog",
+      "resolve": "C:/development/react-blog",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "dfaaaaa00f0fa0baf91d5b5e81c558af",
@@ -561,7 +551,7 @@
       "nodeAPIs": [
         "createPages"
       ],
-      "pluginFilepath": "C:/development/codestack-gatsby-blog",
+      "pluginFilepath": "C:/development/react-blog",
       "packageJson": {
         "name": "gatsby-starter-default",
         "description": "Gatsby default starter",
@@ -615,7 +605,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "39d93828cf47f100fd29c88dafa22eb9",
+        "contentDigest": "a6f18756c01da12d6a5de2d0a528e349",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -624,41 +614,39 @@
       "siteMetadata": {
         "title": "Gatsby Default Starter"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2020-06-23T18:31:49.478Z",
+      "buildTime": "2020-06-23T19:08:54.469Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5b88f8244aedc76f752d983357666280",
+        "contentDigest": "06f7f0ed268d10d7df3364e5e85b6eef",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
-    "C:/development/codestack-gatsby-blog/src/pages absPath of file": {
-      "id": "C:/development/codestack-gatsby-blog/src/pages absPath of file",
+    "C:/development/react-blog/src/pages absPath of file": {
+      "id": "C:/development/react-blog/src/pages absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2fe35d47300fb227efb31b498cfb802e",
+        "contentDigest": "5c339058b299050a1de19ea7a73e2159",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "C:/development/codestack-gatsby-blog/src/pages",
+      "absolutePath": "C:/development/react-blog/src/pages",
       "relativePath": "",
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2020-06-23T18:26:02.936Z",
-      "accessTime": "2020-06-23T18:29:14.658Z",
-      "changeTime": "2020-06-23T18:26:02.936Z",
-      "birthTime": "2020-06-23T18:26:02.930Z",
+      "modifiedTime": "2020-06-23T18:39:24.621Z",
+      "accessTime": "2020-06-23T18:39:24.621Z",
+      "changeTime": "2020-06-23T18:39:24.621Z",
+      "birthTime": "2020-06-23T18:39:24.606Z",
       "root": "C:/",
-      "dir": "C:/development/codestack-gatsby-blog/src",
+      "dir": "C:/development/react-blog/src",
       "base": "pages",
       "ext": "",
       "name": "pages",
@@ -670,38 +658,38 @@
       "gid": 0,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 844424931055166,
+      "ino": 562949954854992,
       "blocks": 0,
-      "atimeMs": 1592936954658.446,
-      "mtimeMs": 1592936762935.6863,
-      "ctimeMs": 1592936762935.6863,
-      "birthtimeMs": 1592936762930.2014,
-      "atime": "2020-06-23T18:29:14.658Z",
-      "mtime": "2020-06-23T18:26:02.936Z",
-      "ctime": "2020-06-23T18:26:02.936Z",
-      "birthtime": "2020-06-23T18:26:02.930Z"
+      "atimeMs": 1592937564621.2717,
+      "mtimeMs": 1592937564621.2717,
+      "ctimeMs": 1592937564621.2717,
+      "birthtimeMs": 1592937564606.2737,
+      "atime": "2020-06-23T18:39:24.621Z",
+      "mtime": "2020-06-23T18:39:24.621Z",
+      "ctime": "2020-06-23T18:39:24.621Z",
+      "birthtime": "2020-06-23T18:39:24.606Z"
     },
-    "C:\\development\\codestack-gatsby-blog\\src\\pages\\22–12–2017-getting-started absPath of file": {
-      "id": "C:\\development\\codestack-gatsby-blog\\src\\pages\\22–12–2017-getting-started absPath of file",
+    "C:\\development\\react-blog\\src\\pages\\22–12–2017-getting-started absPath of file": {
+      "id": "C:\\development\\react-blog\\src\\pages\\22–12–2017-getting-started absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5bd18fdb79cf146cc4f8c7c9cfa5bfd5",
+        "contentDigest": "e7ceeee2ffaaf7496e4088afb73af8c4",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "C:\\development\\codestack-gatsby-blog\\src\\pages\\22–12–2017-getting-started",
+      "absolutePath": "C:\\development\\react-blog\\src\\pages\\22–12–2017-getting-started",
       "relativePath": "22–12–2017-getting-started",
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2020-06-23T18:26:02.931Z",
-      "accessTime": "2020-06-23T18:29:14.658Z",
-      "changeTime": "2020-06-23T18:26:02.931Z",
-      "birthTime": "2020-06-23T18:26:02.931Z",
+      "modifiedTime": "2020-06-23T18:39:24.618Z",
+      "accessTime": "2020-06-23T18:39:24.618Z",
+      "changeTime": "2020-06-23T18:39:24.618Z",
+      "birthTime": "2020-06-23T18:39:24.615Z",
       "root": "C:\\",
-      "dir": "C:\\development\\codestack-gatsby-blog\\src\\pages",
+      "dir": "C:\\development\\react-blog\\src\\pages",
       "base": "22–12–2017-getting-started",
       "ext": "",
       "name": "22–12–2017-getting-started",
@@ -713,38 +701,38 @@
       "gid": 0,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 844424931055167,
+      "ino": 562949954854996,
       "blocks": 0,
-      "atimeMs": 1592936954658.446,
-      "mtimeMs": 1592936762931.2026,
-      "ctimeMs": 1592936762931.2026,
-      "birthtimeMs": 1592936762931.2026,
-      "atime": "2020-06-23T18:29:14.658Z",
-      "mtime": "2020-06-23T18:26:02.931Z",
-      "ctime": "2020-06-23T18:26:02.931Z",
-      "birthtime": "2020-06-23T18:26:02.931Z"
+      "atimeMs": 1592937564618.272,
+      "mtimeMs": 1592937564618.272,
+      "ctimeMs": 1592937564618.272,
+      "birthtimeMs": 1592937564615.2766,
+      "atime": "2020-06-23T18:39:24.618Z",
+      "mtime": "2020-06-23T18:39:24.618Z",
+      "ctime": "2020-06-23T18:39:24.618Z",
+      "birthtime": "2020-06-23T18:39:24.615Z"
     },
-    "C:/development/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid absPath of file": {
-      "id": "C:/development/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid absPath of file",
+    "C:/development/react-blog/src/pages/24-12-2017-learning-grid absPath of file": {
+      "id": "C:/development/react-blog/src/pages/24-12-2017-learning-grid absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9e083df60ed213ff7128bed3c70d4e51",
+        "contentDigest": "0e48ec7def0ac3e4c1bf0deba2101654",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "C:/development/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid",
+      "absolutePath": "C:/development/react-blog/src/pages/24-12-2017-learning-grid",
       "relativePath": "24-12-2017-learning-grid",
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2020-06-23T18:26:02.933Z",
-      "accessTime": "2020-06-23T18:29:14.658Z",
-      "changeTime": "2020-06-23T18:26:02.933Z",
-      "birthTime": "2020-06-23T18:26:02.932Z",
+      "modifiedTime": "2020-06-23T18:39:24.623Z",
+      "accessTime": "2020-06-23T18:39:24.623Z",
+      "changeTime": "2020-06-23T18:39:24.623Z",
+      "birthTime": "2020-06-23T18:39:24.621Z",
       "root": "C:/",
-      "dir": "C:/development/codestack-gatsby-blog/src/pages",
+      "dir": "C:/development/react-blog/src/pages",
       "base": "24-12-2017-learning-grid",
       "ext": "",
       "name": "24-12-2017-learning-grid",
@@ -756,19 +744,19 @@
       "gid": 0,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 844424931055169,
+      "ino": 562949954854998,
       "blocks": 0,
-      "atimeMs": 1592936954658.446,
-      "mtimeMs": 1592936762933.1997,
-      "ctimeMs": 1592936762933.1997,
-      "birthtimeMs": 1592936762932.2021,
-      "atime": "2020-06-23T18:29:14.658Z",
-      "mtime": "2020-06-23T18:26:02.933Z",
-      "ctime": "2020-06-23T18:26:02.933Z",
-      "birthtime": "2020-06-23T18:26:02.932Z"
+      "atimeMs": 1592937564623.2705,
+      "mtimeMs": 1592937564623.2705,
+      "ctimeMs": 1592937564623.2705,
+      "birthtimeMs": 1592937564621.2717,
+      "atime": "2020-06-23T18:39:24.623Z",
+      "mtime": "2020-06-23T18:39:24.623Z",
+      "ctime": "2020-06-23T18:39:24.623Z",
+      "birthtime": "2020-06-23T18:39:24.621Z"
     },
-    "C:/development/codestack-gatsby-blog/src/pages/404.js absPath of file": {
-      "id": "C:/development/codestack-gatsby-blog/src/pages/404.js absPath of file",
+    "C:/development/react-blog/src/pages/404.js absPath of file": {
+      "id": "C:/development/react-blog/src/pages/404.js absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
@@ -778,17 +766,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "C:/development/codestack-gatsby-blog/src/pages/404.js",
+      "absolutePath": "C:/development/react-blog/src/pages/404.js",
       "relativePath": "404.js",
       "extension": "js",
       "size": 208,
       "prettySize": "208 B",
       "modifiedTime": "2020-06-23T18:26:02.934Z",
-      "accessTime": "2020-06-23T18:26:02.934Z",
+      "accessTime": "2020-06-23T18:39:24.609Z",
       "changeTime": "2020-06-23T18:26:02.934Z",
-      "birthTime": "2020-06-23T18:26:02.934Z",
+      "birthTime": "2020-06-23T18:39:24.608Z",
       "root": "C:/",
-      "dir": "C:/development/codestack-gatsby-blog/src/pages",
+      "dir": "C:/development/react-blog/src/pages",
       "base": "404.js",
       "ext": ".js",
       "name": "404",
@@ -800,19 +788,19 @@
       "gid": 0,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 844424931055175,
+      "ino": 562949954854993,
       "blocks": 0,
-      "atimeMs": 1592936762934.2036,
+      "atimeMs": 1592937564609.275,
       "mtimeMs": 1592936762934.2036,
       "ctimeMs": 1592936762934.2036,
-      "birthtimeMs": 1592936762934.2036,
-      "atime": "2020-06-23T18:26:02.934Z",
+      "birthtimeMs": 1592937564608.2751,
+      "atime": "2020-06-23T18:39:24.609Z",
       "mtime": "2020-06-23T18:26:02.934Z",
       "ctime": "2020-06-23T18:26:02.934Z",
-      "birthtime": "2020-06-23T18:26:02.934Z"
+      "birthtime": "2020-06-23T18:39:24.608Z"
     },
-    "C:/development/codestack-gatsby-blog/src/pages/index.js absPath of file": {
-      "id": "C:/development/codestack-gatsby-blog/src/pages/index.js absPath of file",
+    "C:/development/react-blog/src/pages/index.js absPath of file": {
+      "id": "C:/development/react-blog/src/pages/index.js absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
@@ -822,17 +810,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "C:/development/codestack-gatsby-blog/src/pages/index.js",
+      "absolutePath": "C:/development/react-blog/src/pages/index.js",
       "relativePath": "index.js",
       "extension": "js",
       "size": 1132,
       "prettySize": "1.13 kB",
       "modifiedTime": "2020-06-23T18:26:02.936Z",
-      "accessTime": "2020-06-23T18:26:02.936Z",
+      "accessTime": "2020-06-23T18:39:24.611Z",
       "changeTime": "2020-06-23T18:26:02.936Z",
-      "birthTime": "2020-06-23T18:26:02.935Z",
+      "birthTime": "2020-06-23T18:39:24.610Z",
       "root": "C:/",
-      "dir": "C:/development/codestack-gatsby-blog/src/pages",
+      "dir": "C:/development/react-blog/src/pages",
       "base": "index.js",
       "ext": ".js",
       "name": "index",
@@ -844,19 +832,19 @@
       "gid": 0,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 844424931055176,
+      "ino": 562949954854994,
       "blocks": 8,
-      "atimeMs": 1592936762935.6863,
+      "atimeMs": 1592937564611.2756,
       "mtimeMs": 1592936762935.6863,
       "ctimeMs": 1592936762935.6863,
-      "birthtimeMs": 1592936762935.2017,
-      "atime": "2020-06-23T18:26:02.936Z",
+      "birthtimeMs": 1592937564610.2754,
+      "atime": "2020-06-23T18:39:24.611Z",
       "mtime": "2020-06-23T18:26:02.936Z",
       "ctime": "2020-06-23T18:26:02.936Z",
-      "birthtime": "2020-06-23T18:26:02.935Z"
+      "birthtime": "2020-06-23T18:39:24.610Z"
     },
-    "C:/development/codestack-gatsby-blog/src/pages/page-2.js absPath of file": {
-      "id": "C:/development/codestack-gatsby-blog/src/pages/page-2.js absPath of file",
+    "C:/development/react-blog/src/pages/page-2.js absPath of file": {
+      "id": "C:/development/react-blog/src/pages/page-2.js absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
@@ -866,17 +854,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "C:/development/codestack-gatsby-blog/src/pages/page-2.js",
+      "absolutePath": "C:/development/react-blog/src/pages/page-2.js",
       "relativePath": "page-2.js",
       "extension": "js",
       "size": 258,
       "prettySize": "258 B",
       "modifiedTime": "2020-06-23T18:26:02.937Z",
-      "accessTime": "2020-06-23T18:26:02.937Z",
+      "accessTime": "2020-06-23T18:39:24.613Z",
       "changeTime": "2020-06-23T18:26:02.937Z",
-      "birthTime": "2020-06-23T18:26:02.936Z",
+      "birthTime": "2020-06-23T18:39:24.612Z",
       "root": "C:/",
-      "dir": "C:/development/codestack-gatsby-blog/src/pages",
+      "dir": "C:/development/react-blog/src/pages",
       "base": "page-2.js",
       "ext": ".js",
       "name": "page-2",
@@ -888,67 +876,21 @@
       "gid": 0,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 844424931055177,
+      "ino": 562949954854995,
       "blocks": 0,
-      "atimeMs": 1592936762936.6855,
+      "atimeMs": 1592937564613.2715,
       "mtimeMs": 1592936762936.6855,
       "ctimeMs": 1592936762936.6855,
-      "birthtimeMs": 1592936762935.6863,
-      "atime": "2020-06-23T18:26:02.937Z",
+      "birthtimeMs": 1592937564612.2764,
+      "atime": "2020-06-23T18:39:24.613Z",
       "mtime": "2020-06-23T18:26:02.937Z",
       "ctime": "2020-06-23T18:26:02.937Z",
-      "birthtime": "2020-06-23T18:26:02.936Z"
+      "birthtime": "2020-06-23T18:39:24.612Z"
     },
-    "C:/development/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file": {
-      "id": "C:/development/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file",
+    "C:\\development\\react-blog\\src\\pages\\22–12–2017-getting-started\\index.md absPath of file": {
+      "id": "C:\\development\\react-blog\\src\\pages\\22–12–2017-getting-started\\index.md absPath of file",
       "children": [
-        "C:/development/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "4c9ab53ce5a01f304c68f8b81dfb6ecc",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/development/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md",
-      "relativePath": "24-12-2017-learning-grid/index.md",
-      "extension": "md",
-      "size": 439,
-      "prettySize": "439 B",
-      "modifiedTime": "2020-06-23T18:26:02.933Z",
-      "accessTime": "2020-06-23T18:26:02.933Z",
-      "changeTime": "2020-06-23T18:26:02.933Z",
-      "birthTime": "2020-06-23T18:26:02.933Z",
-      "root": "C:/",
-      "dir": "C:/development/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "24-12-2017-learning-grid",
-      "dev": 2792655641,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 844424931055170,
-      "blocks": 0,
-      "atimeMs": 1592936762933.1997,
-      "mtimeMs": 1592936762933.1997,
-      "ctimeMs": 1592936762933.1997,
-      "birthtimeMs": 1592936762933.1997,
-      "atime": "2020-06-23T18:26:02.933Z",
-      "mtime": "2020-06-23T18:26:02.933Z",
-      "ctime": "2020-06-23T18:26:02.933Z",
-      "birthtime": "2020-06-23T18:26:02.933Z"
-    },
-    "C:\\development\\codestack-gatsby-blog\\src\\pages\\22–12–2017-getting-started\\index.md absPath of file": {
-      "id": "C:\\development\\codestack-gatsby-blog\\src\\pages\\22–12–2017-getting-started\\index.md absPath of file",
-      "children": [
-        "C:\\development\\codestack-gatsby-blog\\src\\pages\\22–12–2017-getting-started\\index.md absPath of file >>> MarkdownRemark"
+        "C:\\development\\react-blog\\src\\pages\\22–12–2017-getting-started\\index.md absPath of file >>> MarkdownRemark"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -958,17 +900,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "C:\\development\\codestack-gatsby-blog\\src\\pages\\22–12–2017-getting-started\\index.md",
+      "absolutePath": "C:\\development\\react-blog\\src\\pages\\22–12–2017-getting-started\\index.md",
       "relativePath": "22–12–2017-getting-started\\index.md",
       "extension": "md",
       "size": 229,
       "prettySize": "229 B",
       "modifiedTime": "2020-06-23T18:36:56.287Z",
-      "accessTime": "2020-06-23T18:36:56.287Z",
+      "accessTime": "2020-06-23T18:39:24.619Z",
       "changeTime": "2020-06-23T18:36:56.287Z",
-      "birthTime": "2020-06-23T18:26:02.931Z",
+      "birthTime": "2020-06-23T18:39:24.618Z",
       "root": "C:\\",
-      "dir": "C:\\development\\codestack-gatsby-blog\\src\\pages\\22–12–2017-getting-started",
+      "dir": "C:\\development\\react-blog\\src\\pages\\22–12–2017-getting-started",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
@@ -980,21 +922,67 @@
       "gid": 0,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 844424931055168,
+      "ino": 562949954854997,
       "blocks": 0,
-      "atimeMs": 1592937416286.9792,
+      "atimeMs": 1592937564619.271,
       "mtimeMs": 1592937416286.9792,
       "ctimeMs": 1592937416286.9792,
-      "birthtimeMs": 1592936762931.2026,
-      "atime": "2020-06-23T18:36:56.287Z",
+      "birthtimeMs": 1592937564618.272,
+      "atime": "2020-06-23T18:39:24.619Z",
       "mtime": "2020-06-23T18:36:56.287Z",
       "ctime": "2020-06-23T18:36:56.287Z",
-      "birthtime": "2020-06-23T18:26:02.931Z"
+      "birthtime": "2020-06-23T18:39:24.618Z"
     },
-    "C:/development/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file >>> MarkdownRemark": {
-      "id": "C:/development/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file >>> MarkdownRemark",
+    "C:/development/react-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file": {
+      "id": "C:/development/react-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file",
+      "children": [
+        "C:/development/react-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4c9ab53ce5a01f304c68f8b81dfb6ecc",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/development/react-blog/src/pages/24-12-2017-learning-grid/index.md",
+      "relativePath": "24-12-2017-learning-grid/index.md",
+      "extension": "md",
+      "size": 439,
+      "prettySize": "439 B",
+      "modifiedTime": "2020-06-23T18:26:02.933Z",
+      "accessTime": "2020-06-23T18:39:24.624Z",
+      "changeTime": "2020-06-23T18:26:02.933Z",
+      "birthTime": "2020-06-23T18:39:24.623Z",
+      "root": "C:/",
+      "dir": "C:/development/react-blog/src/pages/24-12-2017-learning-grid",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "24-12-2017-learning-grid",
+      "dev": 2792655641,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 562949954854999,
+      "blocks": 0,
+      "atimeMs": 1592937564624.2705,
+      "mtimeMs": 1592936762933.1997,
+      "ctimeMs": 1592936762933.1997,
+      "birthtimeMs": 1592937564623.2705,
+      "atime": "2020-06-23T18:39:24.624Z",
+      "mtime": "2020-06-23T18:26:02.933Z",
+      "ctime": "2020-06-23T18:26:02.933Z",
+      "birthtime": "2020-06-23T18:39:24.623Z"
+    },
+    "C:/development/react-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/development/react-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file >>> MarkdownRemark",
       "children": [],
-      "parent": "C:/development/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file",
+      "parent": "C:/development/react-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file",
       "internal": {
         "content": "---\r\npath: \"/another-one\"\r\ndate: \"2017-07-12T17:12:33.962Z\"\r\ntitle: \"My Second Gatsby Post\"\r\ntags: ['Programming', 'Frontend', 'CSS']\r\nexcerpt: \"Learn CSS Grid today\"\r\n---\r\n\r\nIn life there will be road blocks but we will over come it. Special cloth alert. Don’t ever play yourself. The key to more success is to get a massage once a week, very important, major key, cloth talk. \r\n\r\n\r\n <pre><code>// some css grid code </code></pre>\r\n\r\n\r\n",
         "contentDigest": "5d2f5bb9d4a23ccbcd64014f5930d96b",
@@ -1011,15 +999,15 @@
           "CSS"
         ],
         "excerpt": "Learn CSS Grid today",
-        "_PARENT": "C:/development/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file",
-        "parent": "C:/development/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file"
+        "_PARENT": "C:/development/react-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file",
+        "parent": "C:/development/react-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file"
       },
-      "fileAbsolutePath": "C:/development/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md"
+      "fileAbsolutePath": "C:/development/react-blog/src/pages/24-12-2017-learning-grid/index.md"
     },
-    "C:\\development\\codestack-gatsby-blog\\src\\pages\\22–12–2017-getting-started\\index.md absPath of file >>> MarkdownRemark": {
-      "id": "C:\\development\\codestack-gatsby-blog\\src\\pages\\22–12–2017-getting-started\\index.md absPath of file >>> MarkdownRemark",
+    "C:\\development\\react-blog\\src\\pages\\22–12–2017-getting-started\\index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:\\development\\react-blog\\src\\pages\\22–12–2017-getting-started\\index.md absPath of file >>> MarkdownRemark",
       "children": [],
-      "parent": "C:\\development\\codestack-gatsby-blog\\src\\pages\\22–12–2017-getting-started\\index.md absPath of file",
+      "parent": "C:\\development\\react-blog\\src\\pages\\22–12–2017-getting-started\\index.md absPath of file",
       "internal": {
         "content": "---\r\npath: \"/hello-world\"\r\ndate: \"2017-07-12T17:12:33.962Z\"\r\ntitle: \"My First Gatsby Post\"\r\n---\r\n\r\nOooooh-weeee, my first blog post!\r\n\r\n hello this is harold\r\n \r\n\r\n <pre><code>npm install beer --save --in-mouth</code></pre>\r\n\r\n\r\n",
         "contentDigest": "12aa396a6962bd20df28e1e520542d31",
@@ -1030,29 +1018,29 @@
         "title": "My First Gatsby Post",
         "path": "/hello-world",
         "date": "2017-07-12T17:12:33.962Z",
-        "_PARENT": "C:\\development\\codestack-gatsby-blog\\src\\pages\\22–12–2017-getting-started\\index.md absPath of file",
-        "parent": "C:\\development\\codestack-gatsby-blog\\src\\pages\\22–12–2017-getting-started\\index.md absPath of file"
+        "_PARENT": "C:\\development\\react-blog\\src\\pages\\22–12–2017-getting-started\\index.md absPath of file",
+        "parent": "C:\\development\\react-blog\\src\\pages\\22–12–2017-getting-started\\index.md absPath of file"
       },
-      "fileAbsolutePath": "C:\\development\\codestack-gatsby-blog\\src\\pages\\22–12–2017-getting-started\\index.md"
+      "fileAbsolutePath": "C:\\development\\react-blog\\src\\pages\\22–12–2017-getting-started\\index.md"
     },
     "SitePage /another-one": {
       "layout": "index",
       "jsonName": "another-one.json",
       "internalComponentName": "ComponentAnotherOne",
       "path": "/another-one",
-      "component": "C:/development/codestack-gatsby-blog/src/templates/blog-template.js",
+      "component": "C:/development/react-blog/src/templates/blog-template.js",
       "componentChunkName": "component---src-templates-blog-template-js",
       "context": {},
-      "updatedAt": 1592937416478,
+      "updatedAt": 1592939340437,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "C:/development/codestack-gatsby-blog/src/templates/blog-template.js",
+      "componentPath": "C:/development/react-blog/src/templates/blog-template.js",
       "id": "SitePage /another-one",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7155d2b056770a5e31a05784d1a99887",
+        "contentDigest": "38c64cad820c65ea66c1ab1032560000",
         "owner": "internal-data-bridge"
       }
     },
@@ -1061,19 +1049,19 @@
       "jsonName": "hello-world.json",
       "internalComponentName": "ComponentHelloWorld",
       "path": "/hello-world",
-      "component": "C:/development/codestack-gatsby-blog/src/templates/blog-template.js",
+      "component": "C:/development/react-blog/src/templates/blog-template.js",
       "componentChunkName": "component---src-templates-blog-template-js",
       "context": {},
-      "updatedAt": 1592937416479,
+      "updatedAt": 1592939340439,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "C:/development/codestack-gatsby-blog/src/templates/blog-template.js",
+      "componentPath": "C:/development/react-blog/src/templates/blog-template.js",
       "id": "SitePage /hello-world",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "60191db35d6bf66460cd3ee69d38836d",
+        "contentDigest": "98e6c1e8f6c048a182c7338094c06448",
         "owner": "internal-data-bridge"
       }
     },
@@ -1082,19 +1070,19 @@
       "jsonName": "404.json",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "C:/development/codestack-gatsby-blog/src/pages/404.js",
+      "component": "C:/development/react-blog/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1592937117768,
+      "updatedAt": 1592939340455,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/development/codestack-gatsby-blog/src/pages/404.js",
+      "componentPath": "C:/development/react-blog/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b0e1a705b93a679653c8d31e1527a0da",
+        "contentDigest": "b810dab652cf4998a0d3b90f3b6a85ae",
         "owner": "internal-data-bridge"
       }
     },
@@ -1103,19 +1091,19 @@
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "C:/development/codestack-gatsby-blog/src/pages/index.js",
+      "component": "C:/development/react-blog/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1592937117769,
+      "updatedAt": 1592939340456,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/development/codestack-gatsby-blog/src/pages/index.js",
+      "componentPath": "C:/development/react-blog/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6a036afd52ec5dbce4739bff0217b264",
+        "contentDigest": "5ad5765793491f645b22e096d7aabb23",
         "owner": "internal-data-bridge"
       }
     },
@@ -1124,19 +1112,19 @@
       "jsonName": "404-html.json",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "C:/development/codestack-gatsby-blog/src/pages/404.js",
+      "component": "C:/development/react-blog/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1592937117774,
+      "updatedAt": 1592939340458,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "C:/development/codestack-gatsby-blog/src/pages/404.js",
+      "componentPath": "C:/development/react-blog/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8eee3fc5fa730cfc20d2be7490c116f5",
+        "contentDigest": "772fdc3087dbf5995c79e86c868aa377",
         "owner": "internal-data-bridge"
       }
     },
@@ -1145,19 +1133,19 @@
       "jsonName": "page-2.json",
       "internalComponentName": "ComponentPage2",
       "path": "/page-2/",
-      "component": "C:/development/codestack-gatsby-blog/src/pages/page-2.js",
+      "component": "C:/development/react-blog/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1592937117782,
+      "updatedAt": 1592939340463,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/development/codestack-gatsby-blog/src/pages/page-2.js",
+      "componentPath": "C:/development/react-blog/src/pages/page-2.js",
       "id": "SitePage /page-2/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "484c9109c912d1905c09b62985224df3",
+        "contentDigest": "e32907d82077f06963e184cc7b4aabe5",
         "owner": "internal-data-bridge"
       }
     }
@@ -1168,10 +1156,10 @@
   },
   "componentDataDependencies": {
     "nodes": {
-      "C:/development/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file >>> MarkdownRemark": [
+      "C:/development/react-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file >>> MarkdownRemark": [
         "/another-one"
       ],
-      "C:\\development\\codestack-gatsby-blog\\src\\pages\\22–12–2017-getting-started\\index.md absPath of file >>> MarkdownRemark": [
+      "C:\\development\\react-blog\\src\\pages\\22–12–2017-getting-started\\index.md absPath of file >>> MarkdownRemark": [
         "/hello-world"
       ]
     },
